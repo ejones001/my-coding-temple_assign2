@@ -1,0 +1,1 @@
+This file contains completed coding temple Assignment 2 tasks
